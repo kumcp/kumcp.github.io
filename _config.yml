@@ -89,4 +89,4 @@ exclude:
 collections:
   category:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection
